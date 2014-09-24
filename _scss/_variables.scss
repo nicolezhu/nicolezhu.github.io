@@ -4,7 +4,9 @@
 //
 
 // Colors
-$blue: #4183C4; 
+$blue: #4183C4;
+$green: #00a871; 
+$blueGray: #708090;
 
 // Grays
 $black: #000;
@@ -15,6 +17,8 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic);
+$sourceSans: 'Source Sans Pro', sans-serif;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
