@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+#### *Studying* computer science at [Northwestern University](http://www.northwestern.edu/)
 
-### More Information
+#### *Working* at [Vox Media](http://voxmedia.com) and [Knight Lab](http://knightlab.northwestern.edu)
 
-A place to include any other types of information that you'd like to include about yourself. 
+#### *Researching* at [Delta Lab](http://delta.northwestern.edu)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+#### *Playing* at [North by Northwestern](http://northbynorthwestern.com) and [Design for America](http://designforamerica.com)
