@@ -10,7 +10,7 @@ It's a new school year and I figured it's time to start a blog where I'll actual
 * **Fast:** makes fewer HTTP requests and since it's serving static pages, the site doesn't have to load a database
 * **Minimal:** your Jekyll site doesn't contain features or functionality that you aren't using
 
-I also thought it would be a good opporunity to get some more experience with Ruby and SASS, and getting used to writing in Markdown. The minimal aspect of Jekyll means that this blog will be a blank canvas. I'll probably redesign parts of it soon, and maybe add a "Currently Reading" section with the Goodreads API.
+I also thought it would be a good opportunity to get some more experience with Ruby and SASS, and getting used to writing in Markdown. The minimal aspect of Jekyll means that this blog will be a blank canvas. I'll probably redesign parts of it soon, and maybe add a "Currently Reading" section with the Goodreads API.
 
 I'll also try to use this as an incentive to write more and write more clearly. The ultimate goal would be to [write every day](http://t.co/eBECUHnDfh) but this seems to be a good place to start.
 
