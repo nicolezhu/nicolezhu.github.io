@@ -13,3 +13,5 @@ It's a new school year and I figured it's time to start a blog where I'll actual
 I also thought it would be a good opporunity to get some more experience with Ruby and SASS, and getting used to writing in Markdown. The minimal aspect of Jekyll means that this blog will be a blank canvas. I'll probably redesign parts of it soon, and maybe add a "Currently Reading" section with the Goodreads API.
 
 I'll also try to use this as an incentive to write more and write more clearly. The ultimate goal would be to [write every day](http://t.co/eBECUHnDfh) but this seems to be a good place to start.
+
+![parks and rec](http://38.media.tumblr.com/f72c245bd10efe88349c5b203d0701a2/tumblr_mozcv7ytOH1ruhi5ho2_500.jpg)
