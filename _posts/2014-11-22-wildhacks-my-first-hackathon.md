@@ -13,5 +13,7 @@ We're not in this hackathon for the prize money - we're doing it just to have th
 As expected, this hackathon is overwhelmingly male. The group of guys next to us have already requested a whiteboard (they were told that there's a lot of paper that they can use).
 
 `verbatim`
+
 "That's the most expensive mouse pad I've ever seen."
+
 "We're counting the number of commits, not the quality of commits."
