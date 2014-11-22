@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WildHacks: My First Hackathon
+title: WildHacks
 ---
 
 It's 10:53 AM on a Saturday morning. My friend [Summer](https://twitter.com/suymilk) and I are attending our first intercollegiate hackathon - [Wildhacks](http://wildhacks.org). We've secured a spot in the corner of the Northwestern Room on the second floor of the student center overlooking the Lakefill. We've also laid claim to a power strip.
