@@ -14,6 +14,5 @@ As expected, this hackathon is overwhelmingly male. The group of guys next to us
 
 `verbatim`
 
-"That's the most expensive mouse pad I've ever seen."
-
-"We're counting the number of commits, not the quality of commits."
++ "That's the most expensive mouse pad I've ever seen."
++ "We're counting the number of commits, not the quality of commits."
