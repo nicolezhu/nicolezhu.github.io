@@ -16,3 +16,20 @@ As expected, this hackathon is overwhelmingly male. The group of guys next to us
 
 + "That's the most expensive mouse pad I've ever seen."
 + "We're counting the number of commits, not the quality of commits."
+
+`caffeine intake`
++ 1 cup of Dunkin Donuts coffee
+
+### 1 PM
+Highlights of the opening ceremony were the Syndio Social Nicolas Cage Challenge (casually include Nic Cage somewhere in your project) and PayPal/Braintree/Venmo's API walkthrough - apparently it's really easy to build a mobile app to charge people to pet your blind dog (so you can raise money for his eye surgery, obviously).
+
+![opening-ceremony](http://i.imgur.com/cXhJnFi.jpg)
+
+Summer and I outlined our web app idea over lunch and are ready to start hacking. We're both student fellows at the [Knight Lab](http://knightlab.northwestern.edu), a news innovation lab on campus, so our project is going to be news-centric. We've set up our Github repo and 
+
+`verbatim`
++ "I just charged myself $216 to pet my own dog."
++ "So cute, so blind."
+
+`caffeine intake`
++ 1 can of Diet Coke
