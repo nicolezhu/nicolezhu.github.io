@@ -18,6 +18,7 @@ As expected, this hackathon is overwhelmingly male. The group of guys next to us
 + "We're counting the number of commits, not the quality of commits."
 
 `caffeine intake`
+
 + 1 cup of Dunkin Donuts coffee
 
 ### 1 PM
@@ -25,7 +26,7 @@ Highlights of the opening ceremony were the Syndio Social Nicolas Cage Challenge
 
 ![opening-ceremony](http://i.imgur.com/cXhJnFi.jpg)
 
-Summer and I outlined our web app idea over lunch and are ready to start hacking. We're both student fellows at the [Knight Lab](http://knightlab.northwestern.edu), a news innovation lab on campus, so our project is going to be news-centric. We've set up our Github repo and 
+Summer and I outlined our web app idea over lunch and are ready to start hacking. Since We're both student fellows at the [Knight Lab](http://knightlab.northwestern.edu), a journalism-technology lab, our project is news-centric. Things we've done so far: setting up a Github repo, an initial deploy to Heroku to get a live link to our project, and starting to dive into some APIs we'll be using.
 
 `verbatim`
 
