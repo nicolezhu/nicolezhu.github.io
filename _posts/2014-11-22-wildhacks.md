@@ -74,3 +74,17 @@ It was really awesome to have ~* Ryan the mentor *~ help us troubleshoot things.
 `caffeine intake`
 
 + does 1 pack of Capri Sun count
+
+### 2:30 AM
+WE ARE GOING crAZY but things are going alright. I figured out how to calculate the reading time for an article and render all the right paramters in an erb template. Summer got a public Google Calendar working and has calculated the free time between scheduled events, so we're going to start to figure out a way to integrate the two pretty soon.
+
+We've reached that point in the night where Summer brushes her teeth at her computer and wonders aloud why it people call it "iced tea" instead of "cold tea." And I'm in a Cookie Monster snuggie.
+
+`verbatim`
+
++ "I've never brushed my teeth in front of so many people."
++ "We started hacking at noonthirty. Oh my God it's 2 AM."
+
+`caffeine intake`
+
++ 1 smart cookie (a chocolate chip cookie infused with caffeine - it is not as good as it sounds but I think it's working)
