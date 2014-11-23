@@ -104,3 +104,10 @@ In any case, we're eating real food for breakfast (instead of Hot Cheetos and Ca
 `caffeine intake`
 
 + 1 cup of coffee
+
+### 9:30 AM
+Deployed [Pickpocket](https://github.com/suyeonson/wildhacks2014) to [Heroku](https://pickpocket.herokuapp.com)! Hover over the Pickpocket logo for a `national treasure`.
+
+There's still a lot more to be done (with the dreaded OAuth among other things) but we've got a live link to a semi-working app. Successful first hackathon: we had a lot of junk food / sugar / caffeine, got zero hours of sleep, felt that all hope was lost and considered changing projects at multiple points during the night, and learned a lot.
+
+Thanks [EPIC](https://twitter.com/EPICatNU) and others for hosting [WildHacks](https://twitter.com/NUWildHacks)! Time to go get some much-needed sleep.
