@@ -58,3 +58,19 @@ After more unsuccessful Sinatra troubleshooting, we have sent out a [desperate t
 `caffeine intake`
 
 + 1 can of Diet Coke
+
+### 12 AM
+HALFWAY POINT!!! My right eye is already bloodshot.
+
+Ryan found us in our sad corner and helped Summer try to get Google OAuth working in Ruby. They found that the Google API sucks - turns out there were layers of gems with typos other errors, and they tried to incept a gem within a gem within a gem and eventually found out that it was just constantly breaking and awful to deal with. So for the purpose of the demo, we're just going to use a public Google Calendar. Meanwhile, I learned how to render the data from the app controller (FINALLY). I've never been so happy to see poorly rendered HTML.
+
+It was really awesome to have ~* Ryan the mentor *~ help us troubleshoot things. He reminded us that hackathons are mostly for learning and that "building tenacity is the most important thing." And that you shouldn't copy and paste code because you're not really learning what it's doing.
+
+`verbatim`
+
++ "Scroll down: sex."
++ "Get me better water."
+
+`caffeine intake`
+
++ does 1 pack of Capri Sun
