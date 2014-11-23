@@ -45,3 +45,16 @@ Already feeling the ups and downs of this hackathon - we were feeling hopeless a
 `caffeine intake`
 
 + none, but we did eat six donut holes
+
+### 10 PM
+We figured out what a Ruby hash is and were sort of able to iterate over them, extract what we need, and print the results. Summer succeeded in tapping into the Google Calendar API but she did it via the server-side which is basically useless to us. But it was still cool to see her add an event to her calendar using the command line.
+
+After more unsuccessful Sinatra troubleshooting, we have sent out a [desperate tweet](https://twitter.com/suymilk/status/536368607039864833) for help. Currently waiting for a resident Ruby/Rails/Sinatra guru to come help us. We're going to eat more clementines.
+
+`verbatim`
+
++ "As our desperation increases, so do the number of clementines."
+
+`caffeine intake`
+
++ 1 can of Diet Coke
