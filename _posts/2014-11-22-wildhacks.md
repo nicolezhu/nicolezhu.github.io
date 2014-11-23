@@ -38,7 +38,7 @@ Summer and I outlined our web app idea over lunch and are ready to start hacking
 + 1 can of Diet Coke
 
 ### 6:30 PM
-Summer and I have spent the last 5.5 hours trying to figure out the Pocket API (it really should not have been that hard but neither of us have much experience with servers or OAuth). After trying Ruby gems, Python wrappers, ngrok tunneling, and 381038471 other things, we finally settled on a pocket-ruby gem (which has all the API methods we need) and started learning how to write a Sinatra app. Restructured our repo again and I got it redeployed to Heroku. Looks like we're both going to learn some Ruby tonight. Next steps: Google Calendar API and some more Sinatra stuff.
+Summer and I have spent the last 5.5 hours trying to figure out the [Pocket](http://getpocket.com) API (it really should not have been that hard but neither of us have much experience with servers or OAuth). After trying Ruby gems, Python wrappers, ngrok tunneling, and 381038471 other things, we finally settled on a pocket-ruby gem (which has all the API methods we need) and started learning how to write a Sinatra app. Restructured our repo again and I got it redeployed to Heroku. Looks like we're both going to learn some Ruby tonight. Next steps: Google Calendar API and some more Sinatra stuff.
 
 Already feeling the ups and downs of this hackathon - we were feeling hopeless after 4 hours of fruitless Googling and a few broken lines of code. We had a moment of doubt (can we even build this thing??) but Summer suggested we spend one more hour trying to make progress before we changed ideas. When in doubt, keep hacking.
 
