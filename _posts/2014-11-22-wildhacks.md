@@ -96,4 +96,11 @@ Things are ALMOST completely working. Switched from Ruby to good ol' JSON and jQ
 
 We came up with a name for our app: Pickpocket (since we're picking articles for users to read from their own Pocket accounts). I made our app logo (and a Nicolas Cage easter egg) and worked on some UI.
 
-No `verbatim` or `caffeine intake`
+### 8 AM
+Summer is amazing and got the Google Calendar API fully functional so we have our MVP completed! Weird to think that this time yesterday we didn't know half the technologies we ended up using. Also this time yesterday we were still sleeping...
+
+In any case, we're eating real food for breakfast (instead of Hot Cheetos and Capri Sun) and now all that's left is some final polishing and deploying the app to Heroku.
+
+`caffeine intake`
+
++ 1 cup of coffee
