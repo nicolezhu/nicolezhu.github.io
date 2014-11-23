@@ -76,7 +76,7 @@ It was really awesome to have ~* Ryan the mentor *~ help us troubleshoot things.
 + does 1 pack of Capri Sun count
 
 ### 2:30 AM
-WE ARE GOING crAZY but things are going alright. I figured out how to calculate the reading time for an article and rendered all the right paramters in an erb template. Summer got a public Google Calendar working and has calculated the free time between scheduled events, so we're going to start to figure out a way to integrate what we've both been working on pretty soon. Accomplished all of this while eating so much junk food:
+WE ARE GOING crAZY but things are going alright. I figured out how to calculate the reading time for an article and rendered all the right parameters in an erb template. Summer got a public Google Calendar working and has calculated the free time between scheduled events, so we're going to start to figure out a way to integrate what we've both been working on pretty soon. Accomplished all of this while eating so much junk food:
 
 ![junkfood](../images/junkfood.jpg)
 
@@ -90,3 +90,10 @@ We've reached that point in the night where Summer brushes her teeth at her comp
 `caffeine intake`
 
 + 1 smart cookie (a chocolate chip cookie infused with caffeine - it is not as good as it sounds but I think it's working)
+
+### 6:45 AM
+Things are ALMOST completely working. Switched from Ruby to good ol' JSON and jQuery and did a lot of roundabout calls to get a random article whose reading time is less than the time difference between two scheduled events in a Google Calendar. Summer's been dealing with Moment.js and creating new Google Calendar events.
+
+We came up with a name for our app: Pickpocket (since we're picking articles for users to read from their own Pocket accounts). I made our app logo (and a Nicolas Cage easter egg) and worked on some UI.
+
+No `verbatim` or `caffeine intake`
