@@ -58,7 +58,7 @@ I’m a big believer in sharing and tracking (sorry, Ron Swanson). From the very
 I told my friends about it. What was awesome and totally unexpected was that it became a regular topic of conversation - people would just ask me what my book of the week was in a meeting or at a party. Tracking that goal in public and sharing my progress with people motivated me to keep going, even if there were really busy weeks where I felt that I couldn’t possibly go on. Even though reading is a largely solitary activity, the process of reading 52 books in 52 weeks doesn’t have to be.
 
 ## How I track what I read
-I tweet out a book when I finish it. I use Lift (now [Coach.me](https://www.coach.me/)) and [Goodreads](https://www.goodreads.com/) to track day-to-day progress. I initially resisted Goodreads and used [bookqueue](bookqueue.net) (an “anti-social” reading application) until I started telling people about what I was doing and wanted to share my reading lists with them. I still like using bookqueue for its nifty visualization of the pages you’ve read each month.
+I tweet out a book when I finish it. I use Lift (now [Coach.me](https://www.coach.me/)) and [Goodreads](https://www.goodreads.com/) to track day-to-day progress. I initially resisted Goodreads and used [bookqueue](http://bookqueue.net) (an “anti-social” reading application) until I started telling people about what I was doing and wanted to share my reading lists with them. I still like using bookqueue for its nifty visualization of the pages you’ve read each month.
 
 ![bookqueue](../images/bookqueue.png)
 
@@ -73,15 +73,15 @@ A lot of the nonfiction books I read to geek out (*Nine Algorithms That Changed 
 
 **Books**:
 
-- “Americanah” by Chimamanda Ngozi Adichie
-- “Wild” by Cheryl Strayed
-- “The Wind-Up Bird Chronicle” by Haruki Murakami
-- “The Design of Everyday Things” by Don Norman
-- “White Teeth” by Zadie Smith
-- “The Unbearable Lightness of Being” by Milan Kundera
-- “To Kill a Mockingbird” by Harper Lee
+- *Americanah* by Chimamanda Ngozi Adichie
+- *Wild* by Cheryl Strayed
+- *The Wind-Up Bird Chronicle* by Haruki Murakami
+- *The Design of Everyday Things* by Don Norman
+- *White Teeth* by Zadie Smith
+- *The Unbearable Lightness of Being* by Milan Kundera
+- *To Kill a Mockingbird* by Harper Lee
 - Joan Didion and E.B. White essay collections
-- “The Information Diet” by Clay Johnson
+- *The Information Diet* by Clay Johnson
 
 **Authors**
 
@@ -90,7 +90,7 @@ A lot of the nonfiction books I read to geek out (*Nine Algorithms That Changed 
 - Kazuo Ishiguro
 
 ## What’s next?
-I’ll probably continue reading a book a week - it’s just such a part of my routine now. However, I also want to tackle other things that I’ve always said I’m just “too busy” for - writing [750 words](750words.com) everyday or [going to the gym](https://uproxx.files.wordpress.com/2013/02/ann-perkins-jogging.gif) 3 times a week. Either way, I'm going to take what I learned from this reading project and apply it to the next insane goal.
+I’ll probably continue reading a book a week - it’s just such a part of my routine now. However, I also want to tackle other things that I’ve always said I’m just “too busy” for - writing [750 words](http://750words.com) everyday or [going to the gym](https://uproxx.files.wordpress.com/2013/02/ann-perkins-jogging.gif) 3 times a week. Either way, I'm going to take what I learned from this reading project and apply it to the next insane goal.
 
 <script src="../js/jquery-2.1.3.min.js"></script>
 <script src="../js/script.js" type="text/javascript"></script>
