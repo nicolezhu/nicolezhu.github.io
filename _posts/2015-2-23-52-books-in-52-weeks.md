@@ -10,9 +10,9 @@ It’s February 2015 and OH MY GOD I DID IT.
 ![52books2014](../images/books.jpg)
 
 ## What would possess a person to read 52 books in 52 weeks?
-This time last year, I felt buried by school work and Chicago snow. I’d already abandoned whatever half-assed New Year’s Resolutions I jotted down in some journal. Then, I read this [great Medium article](https://medium.com/@julien/how-to-read-a-book-a-week-20675f2e206c?source=reading-list) by Julien Smith - he’s read a book a week for *five years straight* .
+This time last year, I felt buried by school work and Chicago snow. I’d already abandoned whatever half-assed New Year’s Resolutions I jotted down in some journal. Then, I read this [great Medium article](https://medium.com/@julien/how-to-read-a-book-a-week-20675f2e206c?source=reading-list) by Julien Smith - he’s read a book a week for *five years straight*.
 
-I like that he not only spoke about the benefits of doing such a massive challenge (building a “habit of completion”), but also listed concrete ways to achieve that goal, such as taking things “one day at a time” and making it a “routine”. Reading is something I’ve loved ever since I was a kid (I even competed in [Kids’ Lit. Quiz](http://www.internationalschool.info/isb-middle-school-kids-lit-quiz-team-victorious/) - an international reading trivia competition in middle school). But ever since I started college, I stopped reading for pleasure. I blamed it on school or my schedule - “*I just don’t have the time*.”
+I like that he not only spoke about the benefits of doing such a massive challenge (building a “habit of completion”), but also listed concrete ways to achieve that goal, such as taking things “one day at a time” and making it a “routine.” Reading is something I’ve loved ever since I was a kid (I even competed in [Kids’ Lit. Quiz](http://www.internationalschool.info/isb-middle-school-kids-lit-quiz-team-victorious/) - an international reading trivia competition in middle school). But ever since I started college, I stopped reading for pleasure. I blamed it on school or my schedule - “*I just don’t have the time*.”
 
 Smith’s article was a kick in the butt: “just do it already.” I decided that it was finally time to stop making excuses (because I somehow always found time to watch *30 Rock* reruns on Netflix).
 
