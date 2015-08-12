@@ -301,7 +301,7 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: 10em;
     // border-top: 1px solid #ddd;
     // border-bottom: 1px solid #ddd;
   background-color: $whiteGray;
@@ -315,6 +315,10 @@ footer {
   bottom: 0;
   width: 100%;
   background-color: $whiteGray;
+
+  svg {
+    margin-top: 10px;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
