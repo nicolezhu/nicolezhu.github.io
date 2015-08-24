@@ -3,14 +3,14 @@ layout: post
 title: Storytelling tools, collaboration, and open source in a student newsroom
 ---
 
-Last fall, I took on the relatively new position of Creative Director at [North by Northwestern](http://northbynorthwestern.com) (NBN), Northwestern University’s independent online publication on campus and culture. My main goal was to make sure our staff was taking advantage of the web as a storytelling medium. For one editors meeting, I was asked to talk about just that -- ways to tell stories with multimedia and interactive elements. While it could’ve been just a fifteen minute talk with a follow-up email containing a list of links, I wanted to make something that wouldn’t get lost in someone’s inbox and could be used as a reference guide regardless of our quarterly staff turnover.
+Last fall, I took on the position of Creative Director at [North by Northwestern](http://northbynorthwestern.com) (NBN), Northwestern University’s independent online publication on campus and culture. My main goal was to encourage our staff to take advantage of the web as a storytelling medium, especially since we have great multimedia and interactive teams here at NBN. During an editors meeting, I was asked to talk about just that -- ways to tell excellent stories on the web. While it could have been just a fifteen minute talk with a follow-up email containing a list of helpful links, I saw an opportunity to make something that wouldn’t get lost in someone’s inbox and could be used as a reference guide regardless of our quarterly staff turnover.
 
 #### Introducing [NBN Web Tools](http://nbnwebtools.herokuapp.com/) (a work in progress):
 
-## Compiles storytelling tools
-The very first version of NBN Web Tools was simply a website that organized and compiled storytelling tools ranging from making interactive maps to creating social sharing images. By centralizing these resources, writers only need to reach out to the interactive section when they can’t find an existing tool to meet their needs. 
-
 ![web tools](../images/webtools.png)
+
+## Compiles storytelling tools
+The very first version of NBN Web Tools was just a website that organized and compiled storytelling tools ranging from making interactive maps to creating social sharing images. By centralizing these resources, writers only need to reach out to the interactive section when they can’t find an existing tool to meet their needs. 
 
 In the second version of the site, I added in examples of how each tool has been used on NBN. By linking to real stories, people can not only get a feel for how the tool can be applied to our publication, but can also be inspired to use the tool in their own unique ways.
 
