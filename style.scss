@@ -134,6 +134,7 @@ img {
   font-style: italic;
   color: $gray;
   font-size: 14px;
+  margin-top: 50px;
 }
 
 // Specify the color of the selection
@@ -296,7 +297,6 @@ nav {
 
   .entry {
     font-size: 16px;
-    margin-bottom: 50px;
   }
 
   img {
@@ -305,7 +305,7 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 10em;
+  margin-top: 8em;
     // border-top: 1px solid #ddd;
     // border-bottom: 1px solid #ddd;
   background-color: $whiteGray;

@@ -10,14 +10,6 @@ Last fall, I took on the relatively new position of Creative Director at [North 
 Here's what it does:
 
 ## Compiles storytelling tools
-A common interaction I hear in newsroom:
-
-> “Can you make an interactive timeline?”
-<br>
-> “[Someone else](http://knightlab.northwestern.edu) already has!”
-<br>
-> [everyone rejoices]
-
 The very first version of NBN Web Tools was simply a website that organized and compiled storytelling tools ranging from making interactive maps to creating social media sharing images. By centralizing these resources, writers only need to reach out to the interactive section when they can’t find an existing tool to meet their needs. 
 
 ![web tools](../images/webtools.png)
