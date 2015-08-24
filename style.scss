@@ -273,13 +273,16 @@ nav {
 }
 
 .post { 
+  h1 {
+    line-height: 1.2 !important;
+  }
+
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
-    font-style: italic;
+    font-size: 20px;
   }
 
   .comments {
@@ -293,6 +296,7 @@ nav {
 
   .entry {
     font-size: 16px;
+    margin-bottom: 50px;
   }
 
   img {
