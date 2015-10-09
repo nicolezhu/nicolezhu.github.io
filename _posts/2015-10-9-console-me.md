@@ -1,7 +1,7 @@
-—
+---
 layout: post
 title: console me
-—
+---
 
 My laptop has been a steady companion for the last three years. Sure, the battery has deteriorated since I was a wide-eyed freshman, but it has otherwise never given me any problems. Until today, when the space bar decided that it’d had enough and would press itself to its heart’s content without the slightest provocation. I could barely type a URL in Chrome without the cursor making a mad dash to the right of the screen. I was stuck at the bottom of any website, the cursor still blinking madly as it tried to go beyond the end of the webpage. 
 
