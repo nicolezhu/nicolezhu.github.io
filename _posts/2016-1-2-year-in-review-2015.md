@@ -93,7 +93,7 @@ An incomplete series of lists detailing what I wrote, built, read, and watched i
 14. *Mrs. Dalloway* by Virginia Woolf
 15. *Every Day Is for the Thief* by Teju Cole
 16. *Sex Criminals, Vol. 1: One Weird Trick* by Matt Fraction and Chip Zdarsky
-17. *Naked* by David Seders
+17. *Naked* by David Sedaris
 18. *Mobile First* by Luke Wroblewski
 19. *Mr. Penumbra’s 24-Hour Bookstore* by Robin Sloan
 20. *Steal Like an Artist: 10 Things Nobody Told You About Being Creative* by Austin Kleon
@@ -134,11 +134,11 @@ An incomplete series of lists detailing what I wrote, built, read, and watched i
 
 - Master of None (season 1)
 - Jessica Jones (season 1)
-- Jane the Virgin (season 1-2)
+- Jane the Virgin (seasons 1-2)
 - Brooklyn Nine-Nine (seasons 2-3)
 - Arrow (season 3-4)
 - Parks and Recreation (season 7)
-- The Flash (season 1-2)
+- The Flash (seasons 1-2)
 - Daredevil (season 1)
 - Orange is the New Black (season 3)
 - Broad City (seasons 1-2)
