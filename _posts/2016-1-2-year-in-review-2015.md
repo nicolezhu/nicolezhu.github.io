@@ -3,18 +3,15 @@ layout: post
 title: Year in Review 2015
 ---
 
-An incomplete series of lists detailing what I wrote, built, read, and watched in 2015. I also wrote a more [~real~ reflection on Medium](https://medium.com/@nz/weight-wait-32f89db04e99#.7z7mof2mp).
+An incomplete series of lists detailing what I wrote, built, read, and watched in 2015. I also wrote a more [~real~ reflection of my year on Medium](https://medium.com/@nz/weight-wait-32f89db04e99#.7z7mof2mp).
 
 ## Projects Completed:
 
-- [52 Books in 52 Weeks 2014-15](https://www.goodreads.com/review/list/5789743?shelf=52-books-in-52-weeks-2014)
-Read 52 books in 52 weeks from February 2014 to February 2015
-- [The 100 Day Project](https://medium.com/r/?url=https%3A%2F%2Finstagram.com%2Fexplore%2Ftags%2F100daysof750words%2F)
-Wrote 750 words every day for 100 days
-- [write your sibling](https://medium.com/write-your-sibling)https://medium.com/write-your-sibling
-Wrote and mailed 30 letters over the course of 30 days to Katie, cross-posted to Medium
+- [52 Books in 52 Weeks 2014-15](https://www.goodreads.com/review/list/5789743?shelf=52-books-in-52-weeks-2014): read 52 books in 52 weeks from February 2014 to February 2015
+- [The 100 Day Project](https://medium.com/r/?url=https%3A%2F%2Finstagram.com%2Fexplore%2Ftags%2F100daysof750words%2F): wrote 750 words every day for 100 days
+- [write your sibling](https://medium.com/write-your-sibling)https://medium.com/write-your-sibling: wrote and mailed 30 letters over the course of 30 days to [Katie](phttps://twitter.com/ktzhu), cross-posted to Medium
 
-## Things Written
+## Things Written:
 
 **Medium posts**
 
@@ -22,29 +19,15 @@ Wrote and mailed 30 letters over the course of 30 days to Katie, cross-posted to
 - [Do not brush it off](https://medium.com/keep-learning-keep-growing/do-not-brush-it-off-2bd99478176d#.1hjai3gg5)
 - [6 Thoughts On Impostor Syndrome](https://medium.com/the-unlisted/6-thoughts-on-impostor-syndrome-d6b2ccc4a3a3#.b9sy0h286)
 - [What we learned building a student media startup](https://medium.com/looking-through-tellascope/what-we-learned-building-a-student-media-startup-4fb3e24f9b12#.np34d7bvw)
-
-[write your sibling](https://medium.com/write-your-sibling)
-
-- [30 letters](https://medium.com/write-your-sibling/write-your-sibling-f7e8be62268f#.fp5yptkzj) every day for 30 days
-
-[#100daysof750words](https://medium.com/100daysofwriting)
-
 - [Day 100: what I learned writing 750 words every day for 100 days](https://medium.com/100daysofwriting/day-100-what-i-learned-writing-750-words-every-day-for-100-days-1f43d62e34c9#.35u59r4dd)
 - [Day 1: female role models/solidarity in tech](https://medium.com/100daysofwriting/day-1-female-role-models-solidarity-in-tech-7901d19ecef2#.22iqinlee)
 - [Day 93: things I learned in college that I didn’t earn a degree for](https://medium.com/100daysofwriting/day-93-things-i-learned-in-college-that-i-didn-t-earn-a-degree-for-2a65fb5dfb5f#.gxcvbkhg7) (also published on [Thought Catalog](http://thoughtcatalog.com/nicole-zhu/2015/10/8-things-you-learn-in-college-that-you-dont-earn-a-degree-for/))
-- [Day 92: what was the last book you read?](https://medium.com/100daysofwriting/day-92-what-was-the-last-book-you-read-d9c3bbaae1b6#.ct40jv3m7)
-- [Day 84: things that can always make you laugh](https://medium.com/100daysofwriting/day-84-things-that-can-always-make-you-laugh-c48a7a2652b9#.6rzubkrkf)
-- [Day 36: on Chipotle](https://medium.com/100daysofwriting/day-36-on-chipotle-488eb21cbd8a#.wq39jb6mq)
-- [Day 34: on running](https://medium.com/100daysofwriting/day-34-on-running-12e56baafae8#.iuyqniqo7)
-- [Day 64: on mental health](https://medium.com/100daysofwriting/day-64-on-mental-health-25c2b5dcf982#.ngtlg734g)
-- [Day 13: answering the question “where are you from?”](https://medium.com/100daysofwriting/day-13-answering-the-question-where-are-you-from-191907f92d91#.ejiwwwu3k)
-- [Day 42: my relationship with my sister](https://medium.com/100daysofwriting/day-42-my-relationship-with-my-sister-84fe9119136f#.8crzxzufs)
-- [Day 8: on keeping in touch](https://medium.com/100daysofwriting/day-8-on-keeping-in-touch-274c592278a4#.qz2iwytzf)
-- [100 Days of Writing Prompts](https://medium.com/100daysofwriting/100-days-of-writing-prompts-a98eeb8939c2#.kx1cuh4mq)
 
-[just for shiggles](https://medium.com/just-for-shiggles)
-- [I Call This Look…](https://medium.com/just-for-shiggles/i-call-this-look-86b137f16d62#.4wkjrqlug)
-- [Slack and other hacks: how my family stays in touch](https://medium.com/just-for-shiggles/slack-and-other-hacks-how-my-family-stays-in-touch-4b319caaa16b#.y5kj7q2mr)
+**Medium publications**
+
+- [write your sibling](https://medium.com/write-your-sibling)
+- [#100daysof750words](https://medium.com/100daysofwriting)
+- [just for shiggles](https://medium.com/just-for-shiggles)
 
 **Blog posts**
 
@@ -68,7 +51,7 @@ Wrote and mailed 30 letters over the course of 30 days to Katie, cross-posted to
 - [Solving complex problems](http://product.voxmedia.com/2015/7/29/9069279/solving-complex-problems) (Vox Product)
 - [5 Podcasts with Female Hosts You Need to Listen To (In No Particular Order)](http://hunnymag.com/5-podcasts-with-female-hosts/) (Hunny Mag)
 
-## Things Built
+## Things Built:
 
 **Hackathons**
 
@@ -90,9 +73,9 @@ Wrote and mailed 30 letters over the course of 30 days to Katie, cross-posted to
 - [Tellascope](http://tellascope.herokuapp.com/)
 - Vox things in private repos
 
-## Books Read
+## Books Read:
 
-[52 total](https://www.goodreads.com/user_challenges/2327644)
+**[52 total](https://www.goodreads.com/user_challenges/2327644)**
 
 1. *Year of Yes: How to Dance It Out, Stand In The Sun and Be Your Own Person* by Shonda Rhimes
 2. *Beyond News: The Future of Journalism* by Mitchell Stephens
@@ -147,27 +130,27 @@ Wrote and mailed 30 letters over the course of 30 days to Katie, cross-posted to
 51. *The Design of Everyday Things* by Donald A. Norman
 52. *HTML5 for Web Designers* by Jeremy Keith
 
-## TV Shows Watched (aired in 2015)
+## TV Shows Watched (aired in 2015):
 
-1. Master of None (season 1)
-2. Jessica Jones (season 1)
-3. Jane the Virgin (season 1-2)
-4. Brooklyn Nine-Nine (seasons 2-3)
-5. Arrow (season 3-4)
-6. Parks and Recreation (season 7)
-7. The Flash (season 1-2)
-8. Daredevil (season 1)
-9. Orange is the New Black (season 3)
-10. Broad City (seasons 1-2)
-11. Bob’s Burgers (seasons 5-6)
-12. Empire (season 1)
-13. How to Get Away with Murder (seasons 1-2)
-14. Scandal (half of season 4)
-15. Fresh Off the Boat (half of season 1)
-16. Archer (seasons 1-6)
-17. Community (half of season 6)
-18. Mad Men (seasons 1-7)
-19. Silicon Valley (season 1-2)
-20. Mr. Robot (season 1)
-21. Game of Thrones (almost all of season 5)
-22. Unbreakable Kimmy Schmidt (season 1)
+- Master of None (season 1)
+- Jessica Jones (season 1)
+- Jane the Virgin (season 1-2)
+- Brooklyn Nine-Nine (seasons 2-3)
+- Arrow (season 3-4)
+- Parks and Recreation (season 7)
+- The Flash (season 1-2)
+- Daredevil (season 1)
+- Orange is the New Black (season 3)
+- Broad City (seasons 1-2)
+- Bob’s Burgers (seasons 5-6)
+- Empire (season 1)
+- How to Get Away with Murder (seasons 1-2)
+- Scandal (half of season 4)
+- Fresh Off the Boat (half of season 1)
+- Archer (seasons 1-6)
+- Community (half of season 6)
+- Mad Men (seasons 1-7)
+- Silicon Valley (season 1-2)
+- Mr. Robot (season 1)
+- Game of Thrones (almost all of season 5)
+- Unbreakable Kimmy Schmidt (season 1)
