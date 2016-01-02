@@ -9,7 +9,7 @@ An incomplete series of lists detailing what I wrote, built, read, and watched i
 
 - [52 Books in 52 Weeks 2014-15](https://www.goodreads.com/review/list/5789743?shelf=52-books-in-52-weeks-2014): read 52 books in 52 weeks from February 2014 to February 2015
 - [The 100 Day Project](https://medium.com/r/?url=https%3A%2F%2Finstagram.com%2Fexplore%2Ftags%2F100daysof750words%2F): wrote 750 words every day for 100 days
-- [write your sibling](https://medium.com/write-your-sibling)https://medium.com/write-your-sibling: wrote and mailed 30 letters over the course of 30 days to [Katie](phttps://twitter.com/ktzhu), cross-posted to Medium
+- [write your sibling](https://medium.com/write-your-sibling)https://medium.com/write-your-sibling): wrote and mailed 30 letters over the course of 30 days to [Katie](https://twitter.com/ktzhu), cross-posted to Medium
 
 ## Things Written:
 
