@@ -13,6 +13,8 @@ I've been listening to Beyonc&eacute;'s ["Formation"](https://www.youtube.com/wa
 - ["White People: Shut Up About Beyonc&eacute;"](http://bittergertrude.com/2016/02/08/white-people-shut-up-about-beyonce/) by Melissa Hillman (Tumblr)
 - ["Formation Doesn't Include Me - And That's Just Fine"](https://thecauldron.si.com/formation-doesn-t-include-me-and-that-s-just-fine-5db8055f8b75#.yxwa20tdp) by Kate Forristall (Medium)
 - ["Beyonc&eacute; didn't just steal the Super Bowl halftime show. She made it a political act."](http://www.vox.com/2016/2/7/10934576/beyonce-super-bowl-halftime-2016-coldplay) by Caroline Framke (Vox.com)
+- ["In Beyonc&eacute;'s 'Formation,' A Glorification of 'Bama' Blackness"](http://www.npr.org/sections/codeswitch/2016/02/10/466178725/in-beyonc-s-formation-a-song-for-the-bama) by Jesmyn Ward (NPR)
+- ["Beyonc&eacute's 'Formation': Young, Gifted, and Black"](http://nymag.com/thecut/2016/02/beyonce-formation-young-gifted-and-black.html) by Rembert Browne, Allison P. Davis, Dee Lockett and Ashley Weatherford (The Cut)
 
 **BONUS:** Jenna Wortham [received](http://www.refinery29.com/2016/02/103033/beyonce-sends-flowers-to-reporter) a HANDWRITTEN LETTER FROM THE QUEEN HERSELF FOR THE ARTICLE SHE WROTE. Everyone else's job is garbage unless it means Beyonc&eacute; personally writes you thank you cards.
 
