@@ -39,7 +39,7 @@ h1, h2, h4, h5, h6 {
   font-family: $sourceSans;
   color: $darkGray;
   font-weight: bold;
-  
+
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -57,7 +57,7 @@ h3 {
   font-family: $sourceSans;
   color: $green;
   font-weight: bold;
-  
+
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -66,8 +66,8 @@ h3 {
     line-height: 1.4;
   }
 }
-  
-h1 {  
+
+h1 {
   font-size: 30px;
   color: $green;
   a {
@@ -75,15 +75,15 @@ h1 {
   }
 }
 
-h2 {  
+h2 {
   font-size: 24px;
 }
 
-h3 {  
+h3 {
   font-size: 20px;
 }
 
-h4 {  
+h4 {
   font-size: 18px;
   color: $gray;
 }
@@ -178,7 +178,7 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-  
+
   @include mobile {
     text-align: center;
   }
@@ -215,7 +215,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $sourceSans; 
+  font-family: $sourceSans;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -227,7 +227,7 @@ img {
   color: $gray;
   font-size: 12px;
   font-weight: 300;
-  
+
   @include mobile {
     margin: 3px 0;
   }
@@ -236,9 +236,9 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $sourceSans; 
+  font-family: $sourceSans;
   font-size: 18px;
-  
+
   @include mobile {
     float: none;
     margin-top: 9px;
@@ -277,7 +277,7 @@ nav {
   border-bottom: none;
 }
 
-.post { 
+.post {
   h1 {
     line-height: 1.2 !important;
   }
@@ -326,6 +326,17 @@ footer {
 
   svg {
     margin-top: 10px;
+  }
+}
+
+.pagination {
+  margin-top: 1.2em;
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: bold;
+
+  .next {
+    float: right;
   }
 }
 
