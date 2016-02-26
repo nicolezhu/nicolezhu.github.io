@@ -3,7 +3,7 @@ layout: post
 title: 52 Books in 52 Weeks
 ---
 
-In February 2014, I decided to read a book a week for a year. 
+In February 2014, I decided to read a book a week for a year.
 
 It’s February 2015 and OH MY GOD I DID IT.
 
@@ -65,7 +65,7 @@ I tweet out a book when I finish it. I use Lift (now [Coach.me](https://www.coac
 Around week 15, I started taking pictures of the books I read and posted them to Everest (another goal-tracking mobile app, but it was unfortunately shut down in the last year).
 
 ## How I choose books to read
-I keep an extensive Evernote of books to read that I usually add to when I’m perusing the shelves in a bookstore. I took recommendations from friends (*Norwegian Wood*), read the books I received as gifts (*Out Stealing Horses*), or read more authors whose work I read in class (Cheryl Strayed, Joan Didion, Don Norman). During lazy weeks, I just read whatever’s on my bookshelf. 
+I keep an extensive Evernote of books to read that I usually add to when I’m perusing the shelves in a bookstore. I took recommendations from friends (*Norwegian Wood*), read the books I received as gifts (*Out Stealing Horses*), or read more authors whose work I read in class (Cheryl Strayed, Joan Didion, Don Norman). During lazy weeks, I just read whatever’s on my bookshelf.
 
 A lot of the nonfiction books I read to geek out (*Nine Algorithms That Changed the Future*) or learn something (*JavaScript: The Good Parts*). Some of the books were also in response to whatever was playing in theaters (*The Imitation Game*), or even current events (*To Kill a Mockingbird* around the time of Darren Wilson’s non-indictment).
 
@@ -93,5 +93,5 @@ A lot of the nonfiction books I read to geek out (*Nine Algorithms That Changed 
 I’ll probably continue reading a book a week - it’s just such a part of my routine now. However, I also want to tackle other things that I’ve always said I’m just “too busy” for - writing [750 words](http://750words.com) everyday or [going to the gym](https://uproxx.files.wordpress.com/2013/02/ann-perkins-jogging.gif) 3 times a week. Either way, I'm going to take what I learned from this reading project and apply it to the next insane goal.
 
 <script src="../js/jquery-2.1.3.min.js"></script>
-<script src="../js/script.js" type="text/javascript"></script>
+<script src="../js/52books_year1.js" type="text/javascript"></script>
 <script src="../js/Chart.js"></script>
