@@ -48,7 +48,7 @@ I added an [extra sheet](https://docs.google.com/spreadsheets/d/1JTrkx_8jeIJ_Q3v
 - *Everything I Never Told You* by Celeste Ng
 
 ## What I’m doing differently this year
-I hope to continue reading diverse books by diverse authors, with more far-rangingn subject matter. I might take on NYPL's [2017 Read Harder Challenge](https://www.nypl.org/blog/2016/12/22/doing-2017-read-harder-challenge-try-these-books), which lays out 24 book tasks to encourage reading "consciously, thoughtfully, and outside your comfort zone." It's also more important than ever to read from and ["assemble a library of resistance."](https://docs.google.com/document/d/1uYz0HVid83leyIjF5opvHkoCK58IUQNexxDg4U1qpoM/edit)
+I hope to continue reading diverse books by diverse authors, with more far-ranging subject matter. I might take on NYPL's [2017 Read Harder Challenge](https://www.nypl.org/blog/2016/12/22/doing-2017-read-harder-challenge-try-these-books), which lays out 24 book tasks to encourage reading "consciously, thoughtfully, and outside your comfort zone." It's also more important than ever to read from and ["assemble a library of resistance."](https://docs.google.com/document/d/1uYz0HVid83leyIjF5opvHkoCK58IUQNexxDg4U1qpoM/edit)
 
 <script src="../js/jquery-2.1.3.min.js"></script>
 <script src="../js/52books_year3.js" type="text/javascript"></script>
