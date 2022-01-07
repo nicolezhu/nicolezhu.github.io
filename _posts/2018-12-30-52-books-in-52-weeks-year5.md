@@ -71,5 +71,5 @@ This past year, I followed through with my goal of writing more creative nonfict
 Follow me on [Twitter](https://twitter.com/nicolelzhu/) for reading and writing updates!
 
 <script src="../js/jquery-2.1.3.min.js"></script>
-<script src="../js/52books_year5.js" type="text/javascript"></script>
+<script src="../js/52books_year8.js" type="text/javascript"></script>
 <script src="../js/Chart.js"></script>
